@@ -1,0 +1,166 @@
+#home{
+	background-image:url('bckground.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.top {
+	background: black;
+	padding: 0 11% 0 11%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.links{
+	margin: 50px 50px 50px 50px;
+	font-size: 40px;
+	text-decoration: none;
+	color: white;
+}
+
+.links:hover{
+	background-color: purple;
+}
+
+#picture {
+	margin-bottom: 0;
+	height: 708px;
+	width: 500px;
+	float: left;
+	}
+
+#heading1{
+	margin: 200px auto auto 20px;
+	text-align: center;
+	color: #ff6347;
+	font-size: 100px;
+}
+
+#name{
+	text-align: center;
+	color: lightblue;
+	font-size: 70px;
+}
+
+#AboutMe{
+	background-image: url("about.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#intro{
+	margin: 50px 80px 20px 30px;
+}
+
+#heading2{
+	font-size: 80px;
+	color: brown;
+}
+
+#about{
+	font-size: 50px;
+	color: lightblue;
+}
+
+#acads{
+	background-image: url("acads.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#academics{
+	margin-top: 100px;
+	text-align: center;
+}
+
+#heading3{
+	font-size: 100px;
+	color: white;
+}
+
+#heading3:hover{
+	color: #4da9ff;
+}
+
+#edu{
+	font-size: 50px;
+	margin: 10px 10px 10px 10px;
+	color: white;
+	font-family: "noto serif";
+}
+
+#edu:hover{
+	color: #b3daff;
+}
+
+#hobbies{
+	background-image: url("interests.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.coding{
+	margin: 10px 0 0 50px;
+	width: 45%;
+	height: 500px;
+	float: left;
+}
+
+.dance{
+	margin: 10px 30px 0 50px;
+	width: 45%;
+	height: 500px;
+	float: left;
+}
+
+#heading4{
+	margin-top: 50px;
+	color: white;
+	float: left;
+	width: 45%;
+	text-align: center;
+}
+
+#heading5{
+	margin-top:50px;
+	color: white;
+	float: left;
+	width: 55%;
+	text-align: center;
+}
+
+#heading4:hover{
+	color: #4da9ff;
+}
+
+#heading5:hover{
+	color: #4da9ff;
+}
+
+#contact{
+	background-image:url('contact.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#heading6{
+	color: lightblue;
+	font-size: 100px;
+}
+
+#contactss{
+	margin: 50px 0 0 50px;
+}
+
+.contactme{
+	color: lightblue;
+	font-size: 50px;
+
+}
+
+.link2:hover{
+	color: brown;
+}
